@@ -40,4 +40,4 @@ This project is open source and free to use. Modify, share, and enjoy!
 
 ---
 
-Enjoy the chal
+By: Sahand Haeri & Shirin Abdollahzadeh
