@@ -1,4 +1,4 @@
-Project by: Sahand Haeri, Shirin abdollahzadeh
+Project by: Sahand Haeri, Shirin Abdollahzadeh
 For Dr. Ali Qaderian, @IAUCTB
 
 # Avoider — Simple 2D Game
